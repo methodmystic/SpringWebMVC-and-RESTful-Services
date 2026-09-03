@@ -52,7 +52,5 @@ public class FirstController
 		return "index";
 	}
 	
-	//GET POST PUT DELETE PATCH
-	// GetMapping PostMapping PatchMapping PutMapping DeleteMapping
 }
 
